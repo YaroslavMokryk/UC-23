@@ -1,0 +1,17 @@
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\UC-23.exe
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\UC-23.deps.json
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\UC-23.runtimeconfig.json
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\UC-23.dll
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\UC-23.pdb
+C:\.NET_AI\UC-23\UC-23\bin\Debug\net6.0\Bogus.dll
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.csproj.AssemblyReference.cache
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.AssemblyInfoInputs.cache
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.AssemblyInfo.cs
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.csproj.CoreCompileInputs.cache
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.csproj.CopyComplete
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.dll
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\refint\UC-23.dll
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.pdb
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\UC-23.genruntimeconfig.cache
+C:\.NET_AI\UC-23\UC-23\obj\Debug\net6.0\ref\UC-23.dll

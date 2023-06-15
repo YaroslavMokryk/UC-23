@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6qLRVFc/cez58G6hGBdTeL2FVCwmHllnOOzGY8aa3H1gkxZrV/lAg8aQnGbRleHikx/juMqxiuQM7xE0itGMQ==",
+  "success": true,
+  "projectFilePath": "C:\\.NET_AI\\UC-23\\UC-23\\UC-23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ymokr\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
